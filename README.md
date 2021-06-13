@@ -1,5 +1,5 @@
 # Improve_Review_Product_System_Deploy
-Deploy the machine learning model from "Improve Product Review System" project through Streamlit and Heroku.
+Deploy the machine learning model from "Improve Product Review System" project through [Streamlit](https://streamlit.io/) and [Heroku](https://www.heroku.com/).
 
 To view the project in-depth, check out my ["Improve_Product_System"](https://github.com/chilam27/Improve_Product_Review_System) repository on GitHub where I included a clear ReadMe document of the steps I took from data collection to models evaluation.
 
