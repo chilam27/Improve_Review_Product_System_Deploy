@@ -5,7 +5,7 @@ To view the project in-depth, check out my ["Improve_Product_System"](https://gi
 
 ## Author
 
-* **Dao Chi Lam** - [GitHub](https://github.com/chilam27)
+* **Dao Chi Lam** - [LinkedIn](https://www.linkedin.com/in/chi-dao-lam-0263891a0/), [GitHub](https://github.com/chilam27)
 
 ## Acknowledgments
 [Nantasenamat, Chanin. “How to Build a Penguin Classification Web App in Python | Streamlit #3” YouTube, uploaded by Data Professor, 25 Jun. 2020, https://youtu.be/Eai1jaZrRDs](https://youtu.be/Eai1jaZrRDs)
